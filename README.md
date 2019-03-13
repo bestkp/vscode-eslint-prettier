@@ -2,11 +2,11 @@
 
 ##目录
 
-- [一、vscode 插件安装](#一、vscode-插件安装)
-- [二、vscode 配置](#二、vscode-配置)
-- [三、增加 editorconfig 配置](#三、增加-editorconfig-配置)
-- [四、项目配置](#四、项目配置)
-- [五、代码提交前自动格式化](#五、代码提交前自动格式化)
+- [vscode 插件安装](#一、vscode-插件安装)
+- [vscode 配置](#二、vscode-配置)
+- [增加 editorconfig 配置](#三、增加-editorconfig-配置)
+- [项目配置](#四、项目配置)
+- [代码提交前自动格式化](#五、代码提交前自动格式化)
 
 ## 一、vscode 插件安装
 
