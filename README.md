@@ -105,7 +105,7 @@ module.exports = {
 
 - **如果没有安装过 eslint**
   安装完成 eslint 后，执行`npx eslint --init`，会出现下里面界面：
-  ![eslint](1.png)
+  ![eslint](1.jpeg)
   根据需要选择，最后会自动生成`.eslintrc.{js, json}`.
 - **如果已经安装，则可以直接修改**
 
@@ -180,4 +180,4 @@ npm i -D husky lint-staged
 ```
 
 这样执行 git commit 的时候就会去执行`lint-staged`配置的 prettier
-![1111](2.png)
+![1111](2.jpeg)
